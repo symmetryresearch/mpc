@@ -1,0 +1,4 @@
+(executable
+ (public_name mpc)
+ (name main)
+ (libraries mpc))
